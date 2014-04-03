@@ -1,0 +1,7 @@
+c:\demos\StringCalculatorApp\StringCalc.IntegrationTests\bin\Debug\StringCalc.IntegrationTests.dll
+c:\demos\StringCalculatorApp\StringCalc.IntegrationTests\bin\Debug\StringCalc.IntegrationTests.pdb
+c:\demos\StringCalculatorApp\StringCalc.IntegrationTests\bin\Debug\nunit.framework.dll
+c:\demos\StringCalculatorApp\StringCalc.IntegrationTests\bin\Debug\nunit.framework.xml
+c:\demos\StringCalculatorApp\StringCalc.IntegrationTests\obj\Debug\StringCalc.IntegrationTests.csprojResolveAssemblyReference.cache
+c:\demos\StringCalculatorApp\StringCalc.IntegrationTests\obj\Debug\StringCalc.IntegrationTests.dll
+c:\demos\StringCalculatorApp\StringCalc.IntegrationTests\obj\Debug\StringCalc.IntegrationTests.pdb

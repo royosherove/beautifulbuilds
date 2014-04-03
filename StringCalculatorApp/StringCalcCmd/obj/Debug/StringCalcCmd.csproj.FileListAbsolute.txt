@@ -1,0 +1,8 @@
+c:\demos\StringCalculatorApp\StringCalcCmd\bin\Debug\StringCalcCmd.exe.config
+c:\demos\StringCalculatorApp\StringCalcCmd\bin\Debug\StringCalcCmd.exe
+c:\demos\StringCalculatorApp\StringCalcCmd\bin\Debug\StringCalcCmd.pdb
+c:\demos\StringCalculatorApp\StringCalcCmd\obj\Debug\StringCalcCmd.csprojResolveAssemblyReference.cache
+c:\demos\StringCalculatorApp\StringCalcCmd\obj\Debug\StringCalcCmd.exe
+c:\demos\StringCalculatorApp\StringCalcCmd\obj\Debug\StringCalcCmd.pdb
+c:\demos\StringCalculatorApp\StringCalcCmd\bin\Debug\StringCalc.Lib.dll
+c:\demos\StringCalculatorApp\StringCalcCmd\bin\Debug\StringCalc.Lib.pdb

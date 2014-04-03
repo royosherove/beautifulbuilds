@@ -1,0 +1,6 @@
+c:\demos\AdvancedCalculatorModule\AdvancedCalculatorModule\bin\Debug\AdvancedCalculatorModule.dll
+c:\demos\AdvancedCalculatorModule\AdvancedCalculatorModule\bin\Debug\AdvancedCalculatorModule.pdb
+c:\demos\AdvancedCalculatorModule\AdvancedCalculatorModule\bin\Debug\StringCalc.Lib.dll
+c:\demos\AdvancedCalculatorModule\AdvancedCalculatorModule\obj\Debug\AdvancedCalculatorModule.csprojResolveAssemblyReference.cache
+c:\demos\AdvancedCalculatorModule\AdvancedCalculatorModule\obj\Debug\AdvancedCalculatorModule.dll
+c:\demos\AdvancedCalculatorModule\AdvancedCalculatorModule\obj\Debug\AdvancedCalculatorModule.pdb

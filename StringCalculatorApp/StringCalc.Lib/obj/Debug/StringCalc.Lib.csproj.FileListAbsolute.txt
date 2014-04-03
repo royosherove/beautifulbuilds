@@ -1,0 +1,4 @@
+c:\demos\StringCalculatorApp\StringCalc.Lib\bin\Debug\StringCalc.Lib.dll
+c:\demos\StringCalculatorApp\StringCalc.Lib\bin\Debug\StringCalc.Lib.pdb
+c:\demos\StringCalculatorApp\StringCalc.Lib\obj\Debug\StringCalc.Lib.dll
+c:\demos\StringCalculatorApp\StringCalc.Lib\obj\Debug\StringCalc.Lib.pdb
